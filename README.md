@@ -176,7 +176,7 @@ I design AI-powered business systems that automate repetitive processes, improve
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/tam-edwin-4a6804416
+- 💼 LinkedIn: https:https://www.linkedin.com/in/tam-edwin
 - 🌍 Portfolio: https://tamedwin.lovable.app
 - 📺 YouTube: https://youtube.com/@edwinaisolutions
 
